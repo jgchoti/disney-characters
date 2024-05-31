@@ -1,10 +1,11 @@
 #error-container {
-  margin: 0 auto 80px;
+  margin: 0 auto 40px;
 }
 
 #error-container img {
   display: block;
   margin: 0 auto;
+  width: 300px;
 }
 
 #error-container p {
@@ -14,4 +15,9 @@
   align-items: center;
   font-family: var(--font-family);
   font-size: 18px;
+}
+
+#error-container .btn-reset-filter {
+  display: block;
+  margin: 10px auto 0;
 }
