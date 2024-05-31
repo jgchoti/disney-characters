@@ -4,6 +4,7 @@
 @import url("./character-card.css");
 @import url("./pagination.css");
 @import url("./sort-selector.css");
+@import url("./filter.css");
 :root {
   --pink: #de6b80;
   --blue: #397db2;
