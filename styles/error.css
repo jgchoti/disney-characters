@@ -1,0 +1,17 @@
+#error-container {
+  margin: 0 auto 80px;
+}
+
+#error-container img {
+  display: block;
+  margin: 0 auto;
+}
+
+#error-container p {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-family);
+  font-size: 18px;
+}
